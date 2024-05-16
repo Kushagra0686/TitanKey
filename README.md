@@ -27,7 +27,7 @@ How to Run the Python Script
 
 1. Clone the Repository:
 
-   $ git clone https://github.com/Kushagra0686/PRODIGY_CS_03.git
+   $ git clone https://github.com/Kushagra0686/TitanKey
 
 2. Navigate to the Project Directory:
 
