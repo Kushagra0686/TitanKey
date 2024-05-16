@@ -31,7 +31,7 @@ How to Run the Python Script
 
 2. Navigate to the Project Directory:
 
-   $ cd PRODIGY_CS_03
+   $ cd TitanKey 
 
 3. Run the Script:
 
